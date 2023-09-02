@@ -9,7 +9,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 IDE: VS-Code
 
 ## Industry :
-Lifestyle
+Health
 
 ## Project Title :
 Medical Solutions Hub : One stop solution for all medical issues
