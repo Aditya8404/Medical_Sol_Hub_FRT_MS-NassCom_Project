@@ -4,6 +4,8 @@ This is my project for Future Ready Talent internship final project submission, 
 # Azure Deployed website link
 https://calm-grass-0b6f46610.3.azurestaticapps.net/index.html
 
+---
+
 **Home Page**
 ![Screenshot (274)](https://github.com/Aditya8404/Medical_Sol_Hub_FRT_MS-NassCom_Project/assets/108679600/ec08bb41-844d-42b0-bdf7-5d9fd0419b15)
 
