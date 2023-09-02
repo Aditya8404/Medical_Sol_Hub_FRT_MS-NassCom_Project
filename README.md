@@ -1,6 +1,8 @@
 # Medical_Sol_Hub_FRT_MS-NassCom_Project
 This is my project for Future Ready Talent internship final project submission, and for this I have built a website that is related to medical industry solution.
 
+# By : Aditya Punia
+
 # Azure Deployed website link
 https://calm-grass-0b6f46610.3.azurestaticapps.net/index.html
 
