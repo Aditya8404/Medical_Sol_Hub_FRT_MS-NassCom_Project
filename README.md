@@ -35,7 +35,6 @@ Azure Blob Storage, Azure Functions, Static Web Apps
 ## Other Azure Technologies :
 App Service
 
---
 
 **Home Page**
 ![Screenshot (274)](https://github.com/Aditya8404/Medical_Sol_Hub_FRT_MS-NassCom_Project/assets/108679600/ec08bb41-844d-42b0-bdf7-5d9fd0419b15)
